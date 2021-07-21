@@ -1,0 +1,26 @@
+body{ 
+    background-image: radial-gradient( rgb(255, 255, 255),rgb(5, 5, 59));
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 255, 255);
+}
+a{
+    text-decoration:none;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    
+}
+.col-sm-12{
+    color: rgb(255, 255, 255) ;
+}
+.btn-color{
+    background-color: rgb(184, 32, 90);
+}
+.card{
+    background-image: linear-gradient(rgb(62, 53, 73) 10%,rgb(44, 39, 59))
+}
